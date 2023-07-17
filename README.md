@@ -1,6 +1,6 @@
 # MOOM-IOA
 
-A Multi-Objective Optimization Model based on the Input-Output Analysis for the structural adjustment of economic sectors with fine-resolution power sectors is first built to coordinate contradictions caused by diverse goals among economy, environment, and society.
+A Multi-Objective Optimization Model based on the Input-Output Analysis for the structural adjustment of economic sectors with fine-resolution power sectors is built to coordinate contradictions caused by diverse goals among economy, environment, and society.
 
 mop_eps.gms - This program file is to realize the multi-objective optimization model proposed by this article. The solution method of the multi-objective optimization model is the augmented ε-constraint method.
 
